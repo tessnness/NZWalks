@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ii138UMQKQU=",
+  "dgSpecHash": "Brc2nRt9XbU=",
   "success": true,
-  "projectFilePath": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+  "projectFilePath": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BeatricePitu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\BeatricePitu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
