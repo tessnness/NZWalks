@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|c:\\udemy project - nz\\nzwalks\\nzwalks_project\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6706128-D3E6-4D6F-A8A0-6EAF68E047A7}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:55:10.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
               "ToolTip": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:49:47.359Z"
+              "WhenOpened": "2025-05-21T14:49:47.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SQLRegionRepository.cs",
               "DocumentMoniker": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
@@ -59,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IRegionRepository.cs",
               "DocumentMoniker": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
@@ -72,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
@@ -80,7 +98,8 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T14:45:54.245Z"
+              "WhenOpened": "2025-05-15T14:45:54.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,7 +109,7 @@
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
               "ToolTip": "C:\\Udemy Project - NZ\\NZWalks\\NZWalks_Project\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAiwIwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T14:36:11.362Z",
               "EditorCaption": ""
