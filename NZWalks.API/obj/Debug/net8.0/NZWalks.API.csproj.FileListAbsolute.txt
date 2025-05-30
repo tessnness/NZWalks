@@ -506,3 +506,4 @@ C:\Users\Beatrice\Documents\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\
 C:\Users\Beatrice\Documents\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 C:\Users\Beatrice\Documents\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 C:\Users\Beatrice\Documents\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+C:\Udemy Project - NZ\NZWalks\NZWalks_Project\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll

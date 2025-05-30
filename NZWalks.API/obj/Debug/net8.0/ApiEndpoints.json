@@ -55,7 +55,7 @@
         "IsRequired": true
       },
       {
-        "Name": "updateRegion",
+        "Name": "updateRegionRequestDto",
         "Type": "NZWalks.API.Models.DTO.UpdateRegionRequestDto",
         "IsRequired": true
       }
@@ -86,6 +86,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NZWalks.API.Controllers.WalksController",
+    "Method": "Create",
+    "RelativePath": "api/Walks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addWalksRequestDto",
+        "Type": "NZWalks.API.Models.DTO.AddWalkRequestDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
